@@ -7,7 +7,7 @@
 
 Скриншот
 
-!["Screen 1"](/ScreenShots/task_01_01.png "Task 1")
+!["Screen 1-1"](/ScreenShots/task_01_01.png "Task 1")
 
 ---
 
@@ -17,7 +17,7 @@
 
 Скриншот
 
-!["Screen 2"](/ScreenShots/task_02_01.png "Task 2")
+!["Screen 2-1"](/ScreenShots/task_02_01.png "Task 2")
 
 ---
 
@@ -25,6 +25,16 @@
 
 В калькулятор добавьте возможность отменить последнюю операцию 
 
+Скриншоты 
+
+!["Screen 3-1"](/ScreenShots/task_03_01.png "Task 3")
+!["Screen 3-2"](/ScreenShots/task_03_02.png "Task 3")
+
+---
+
 ## Задача 4
 
-Реализовать алгоритм перевода из инфиксной записи в постфиксную для арифметического выражения. http://primat.org/news/obratnaja_polskaja_zapis/2016-04-09-1181 Вычислить запись если это возможно Важно! Для вывода используем логгер и соблюдаем код-стайл! https://skillbox.ru/media/base/java_code_style_kak_pravilno_oformlyat_kod_java/
+Реализовать алгоритм перевода из инфиксной записи в постфиксную для арифметического выражения.<br>
+http://primat.org/news/obratnaja_polskaja_zapis/2016-04-09-1181<br> 
+Вычислить запись если это возможно Важно! Для вывода используем логгер и соблюдаем код-стайл!<br> 
+https://skillbox.ru/media/base/java_code_style_kak_pravilno_oformlyat_kod_java/

@@ -1,6 +1,3 @@
-import java.util.LinkedList;
-import java.util.logging.Logger;
-
 /**
  * Реализуйте очередь с помощью LinkedList со следующими методами:
  *    enqueue() - помещает элемент в конец очереди,
@@ -11,6 +8,9 @@ import java.util.logging.Logger;
  *    Продемонстрируем работу методов обработки очереди.
  *    Если в очереди нет элементов, методы возврата значений ввернут "очердь пуста"
  */
+
+import java.util.LinkedList;
+import java.util.logging.Logger;
 
 public class Main {
   // список для организации очереди
