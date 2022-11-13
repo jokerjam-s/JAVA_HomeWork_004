@@ -35,6 +35,20 @@
 ## Задача 4
 
 Реализовать алгоритм перевода из инфиксной записи в постфиксную для арифметического выражения.<br>
+
+**Пример:**
+x ^ y / (5 * z) + 10  =>  x y ^ 5 z * / 10 +
+
+Скриншоты 
+
+!["Screen 4-1"](/ScreenShots/task_04_01.png "Task 4-1")
+
+Проверка на стороннем сервисе
+
+!["Screen 4-2"](/ScreenShots/task_04_02.png "Task 4-2")
+!["Screen 4-3"](/ScreenShots/task_04_03.png "Task 4-3")
+
+
 http://primat.org/news/obratnaja_polskaja_zapis/2016-04-09-1181<br> 
 Вычислить запись если это возможно Важно! Для вывода используем логгер и соблюдаем код-стайл!<br> 
 https://skillbox.ru/media/base/java_code_style_kak_pravilno_oformlyat_kod_java/
